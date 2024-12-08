@@ -1,0 +1,1099 @@
+{
+  "vaultName": "Tidewater",
+  "lastExport": 1733606124501,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Assets/Pasted image 20230116221454.png",
+    "Assets/Pasted image 20230116223151.png",
+    "Assets/Pasted image 20230116230431.png",
+    "Assets/Pasted image 20230116230440.png",
+    "Assets/Pasted image 20230116230448.png",
+    "Assets/Pasted image 20230116230515.png",
+    "Assets/Pasted image 20230116231021.png",
+    "Assets/Pasted image 20230116232347.png",
+    "Assets/Pasted image 20230116235346.png",
+    "Assets/Pasted image 20230123214653.png",
+    "Assets/Pasted image 20230123220033.png",
+    "Assets/Pasted image 20230123230543.png",
+    "Assets/Pasted image 20230123231546.png",
+    "Assets/Pasted image 20230123234152.png",
+    "Assets/Pasted image 20230123235306.png",
+    "Assets/Pasted image 20230130211700.png",
+    "Assets/Pasted image 20230130234559.png",
+    "Assets/Pasted image 20230131000244.png",
+    "Assets/Pasted image 20230220211921.png",
+    "Assets/Pasted image 20230220212100.png",
+    "Assets/Pasted image 20230227205820.png",
+    "Assets/Pasted image 20230227224628.png",
+    "Assets/Pasted image 20230306215657.png",
+    "Assets/Pasted image 20230313210909.png",
+    "Assets/Pasted image 20230313211156.png",
+    "Assets/Pasted image 20230320210550.png",
+    "Assets/Pasted image 20230320235933.png",
+    "Assets/Pasted image 20230321000007.png",
+    "Assets/Pasted image 20230327232539.png",
+    "Assets/Pasted image 20230403212927.png",
+    "Assets/Pasted image 20230424222148.png",
+    "Assets/Pasted image 20230501210615.png",
+    "Assets/Pasted image 20230501215733.png",
+    "Assets/Pasted image 20230508210850.png",
+    "Assets/Pasted image 20230515210801.png",
+    "Assets/Pasted image 20230522214655.png",
+    "Assets/Pasted image 20230522214744.png",
+    "Assets/Pasted image 20230703210803.png",
+    "Assets/Pasted image 20230710210416.png",
+    "Assets/Pasted image 20230710211434.png",
+    "Assets/Pasted image 20230710212504.png",
+    "Assets/Pasted image 20230724210906.png",
+    "Assets/Pasted image 20230724210918.png",
+    "Assets/Pasted image 20230724211109.png",
+    "Assets/Pasted image 20230724211255.png",
+    "Assets/Pasted image 20230807213629.png",
+    "Assets/Pasted image 20230807214442.png",
+    "Assets/Pasted image 20230807222632.png",
+    "Assets/Pasted image 20230807222837.png",
+    "Assets/Pasted image 20230807223606.png",
+    "Assets/Pasted image 20230828210755.png",
+    "Assets/Pasted image 20230828210758.png",
+    "Assets/Pasted image 20230828210821.png",
+    "Assets/Pasted image 20230828210844.png",
+    "Assets/Pasted image 20230828210853.png",
+    "Assets/Pasted image 20230828210903.png",
+    "Assets/Pasted image 20230925211531.png",
+    "Assets/Pasted image 20231009215753.png",
+    "Assets/Pasted image 20231023211413.png",
+    "Assets/Pasted image 20231023223254.png",
+    "Assets/Pasted image 20231023235210.png",
+    "Assets/Pasted image 20231023235748.png",
+    "Assets/Pasted image 20231113205947.png",
+    "Assets/Pasted image 20231113210123.png",
+    "Assets/Pasted image 20231113210835.png",
+    "Assets/Pasted image 20231113233102.png",
+    "Assets/Pasted image 20231127211107.png",
+    "Assets/Pasted image 20231127235927.png",
+    "Assets/Pasted image 20231128000319.png",
+    "Assets/Pasted image 20231128000413.png",
+    "Assets/Pasted image 20231204211637.png",
+    "Assets/Pasted image 20231204211713.png",
+    "Assets/Pasted image 20231204212017.png",
+    "Assets/Pasted image 20231204212312.png",
+    "Assets/Pasted image 20231211225656.png",
+    "Assets/Pasted image 20231211225748.png",
+    "Assets/Pasted image 20231211230037.png",
+    "Assets/Pasted image 20240108214138.png",
+    "Assets/Pasted image 20240108220134.png",
+    "Assets/Pasted image 20240108235346.png",
+    "Assets/Pasted image 20240115211444.png",
+    "Assets/Pasted image 20240115235834.png",
+    "Assets/Pasted image 20240205211909.png",
+    "Assets/Pasted image 20240219210718.png",
+    "Assets/Pasted image 20240219210746.png",
+    "Assets/Pasted image 20240304211201.png",
+    "Assets/Pasted image 20240415210019.png",
+    "Assets/Pasted image 20240415210604.png",
+    "Assets/Pasted image 20240415220333.png",
+    "Assets/Pasted image 20240415231348.png",
+    "Assets/Pasted image 20240422213808.png",
+    "Assets/Pasted image 20240429230145.png",
+    "Assets/Pasted image 20240429232030.png",
+    "Assets/Pasted image 20240430000104.png",
+    "Assets/Pasted image 20240506211202.png",
+    "Assets/Pasted image 20240520223643.png",
+    "Assets/Pasted image 20240527210809.png",
+    "Assets/Pasted image 20240527210826.png",
+    "Assets/Pasted image 20240527235812.png",
+    "Assets/Pasted image 20240708210759.png",
+    "Assets/Pasted image 20240715213148.png",
+    "Assets/Pasted image 20240722210422.png",
+    "Assets/Pasted image 20240722211630.png",
+    "Assets/Pasted image 20240805222127.png",
+    "Assets/Pasted image 20240805222137.png",
+    "Assets/Pasted image 20240805223118.png",
+    "Assets/Pasted image 20240805233133.png",
+    "Assets/Pasted image 20241014215841.png",
+    "Assets/Pasted image 20241014231112.png",
+    "Assets/Pasted image 20241021211212.png",
+    "Assets/Pasted image 20241028210502.png",
+    "Assets/Pasted image 20241028210957.png",
+    "Assets/Pasted image 20241104211131.png",
+    "Assets/Pasted image 20241104211157.png",
+    "Assets/Pasted image 20241104211818.png",
+    "Assets/Pasted image 20241104212331.png",
+    "Assets/Pasted image 20241104230417.png",
+    "Assets/Pasted image 20241104230434.png",
+    "Assets/Pasted image 20241104231535.png",
+    "Assets/Pasted image 20241104232702.png",
+    "Assets/Pasted image 20241104234635.png",
+    "Assets/Pasted image 20241104234654.png",
+    "Assets/Pasted image 20241111231440.png",
+    "Assets/Pasted image 20241118223515.png",
+    "Assets/Pasted image 20241118230855.png",
+    "Assets/Pasted image 20241125233013.png",
+    "Assets/Pasted image 20241125233024.png",
+    "Assets/Pasted image 20241126000406.png",
+    "Assets/Pasted image 20241202223506.png",
+    "Assets/Pasted image 20241202223902.png",
+    "Assets/Pasted image 20241202223920.png",
+    "Assets/Pasted image 20241202223929.png",
+    "Assets/Pasted image 20241202223957.png",
+    "Assets/Pasted image 20241202224255.png",
+    "Assets/Pasted image 20241202230556.png",
+    "Assets/Pasted image 20241202230731.png",
+    "Assets/Pasted image 20241202232741.png",
+    "Assets/Pasted image 20241207160420.png",
+    "The Zen and Art of Taking Really Good D&D Notes.canvas",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg"
+  ],
+  "fileInfo": {
+    "Assets/Pasted image 20230116221454.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 658949,
+      "exportedPath": "Assets/Pasted image 20230116221454.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230116223151.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 908108,
+      "exportedPath": "Assets/Pasted image 20230116223151.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230116230431.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 111931,
+      "exportedPath": "Assets/Pasted image 20230116230431.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230116230440.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 99953,
+      "exportedPath": "Assets/Pasted image 20230116230440.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230116230448.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 84744,
+      "exportedPath": "Assets/Pasted image 20230116230448.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230116230515.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 104398,
+      "exportedPath": "Assets/Pasted image 20230116230515.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230116231021.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 354015,
+      "exportedPath": "Assets/Pasted image 20230116231021.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230116232347.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 29551,
+      "exportedPath": "Assets/Pasted image 20230116232347.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230116235346.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 1322823,
+      "exportedPath": "Assets/Pasted image 20230116235346.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230123214653.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 171933,
+      "exportedPath": "Assets/Pasted image 20230123214653.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230123220033.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 325823,
+      "exportedPath": "Assets/Pasted image 20230123220033.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230123230543.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 240155,
+      "exportedPath": "Assets/Pasted image 20230123230543.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230123231546.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 371289,
+      "exportedPath": "Assets/Pasted image 20230123231546.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230123234152.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 1290573,
+      "exportedPath": "Assets/Pasted image 20230123234152.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230123235306.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 29063,
+      "exportedPath": "Assets/Pasted image 20230123235306.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230130211700.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 1040269,
+      "exportedPath": "Assets/Pasted image 20230130211700.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230130234559.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 595426,
+      "exportedPath": "Assets/Pasted image 20230130234559.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230131000244.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 1350934,
+      "exportedPath": "Assets/Pasted image 20230131000244.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230220211921.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 178959,
+      "exportedPath": "Assets/Pasted image 20230220211921.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230220212100.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 470984,
+      "exportedPath": "Assets/Pasted image 20230220212100.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230227205820.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 784248,
+      "exportedPath": "Assets/Pasted image 20230227205820.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230227224628.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 723141,
+      "exportedPath": "Assets/Pasted image 20230227224628.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230306215657.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 1457358,
+      "exportedPath": "Assets/Pasted image 20230306215657.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230313210909.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 1421001,
+      "exportedPath": "Assets/Pasted image 20230313210909.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230313211156.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 392389,
+      "exportedPath": "Assets/Pasted image 20230313211156.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230320210550.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 1287763,
+      "exportedPath": "Assets/Pasted image 20230320210550.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230320235933.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 106763,
+      "exportedPath": "Assets/Pasted image 20230320235933.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230321000007.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 74822,
+      "exportedPath": "Assets/Pasted image 20230321000007.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230327232539.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 657087,
+      "exportedPath": "Assets/Pasted image 20230327232539.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230403212927.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 513874,
+      "exportedPath": "Assets/Pasted image 20230403212927.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230424222148.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 503731,
+      "exportedPath": "Assets/Pasted image 20230424222148.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230501210615.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 1807099,
+      "exportedPath": "Assets/Pasted image 20230501210615.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230501215733.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 44530,
+      "exportedPath": "Assets/Pasted image 20230501215733.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230508210850.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 878079,
+      "exportedPath": "Assets/Pasted image 20230508210850.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230515210801.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 799482,
+      "exportedPath": "Assets/Pasted image 20230515210801.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230522214655.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 315904,
+      "exportedPath": "Assets/Pasted image 20230522214655.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230522214744.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 716267,
+      "exportedPath": "Assets/Pasted image 20230522214744.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230703210803.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 2685567,
+      "exportedPath": "Assets/Pasted image 20230703210803.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230710210416.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 521016,
+      "exportedPath": "Assets/Pasted image 20230710210416.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230710211434.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 1252757,
+      "exportedPath": "Assets/Pasted image 20230710211434.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230710212504.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 468221,
+      "exportedPath": "Assets/Pasted image 20230710212504.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230724210906.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 1292291,
+      "exportedPath": "Assets/Pasted image 20230724210906.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230724210918.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 516995,
+      "exportedPath": "Assets/Pasted image 20230724210918.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230724211109.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 33114,
+      "exportedPath": "Assets/Pasted image 20230724211109.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230724211255.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 1978780,
+      "exportedPath": "Assets/Pasted image 20230724211255.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230807213629.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 1664409,
+      "exportedPath": "Assets/Pasted image 20230807213629.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230807214442.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 134679,
+      "exportedPath": "Assets/Pasted image 20230807214442.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230807222632.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 1379274,
+      "exportedPath": "Assets/Pasted image 20230807222632.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230807222837.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 1641291,
+      "exportedPath": "Assets/Pasted image 20230807222837.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230807223606.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 42424,
+      "exportedPath": "Assets/Pasted image 20230807223606.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230828210755.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 642798,
+      "exportedPath": "Assets/Pasted image 20230828210755.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230828210758.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 642798,
+      "exportedPath": "Assets/Pasted image 20230828210758.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230828210821.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 242074,
+      "exportedPath": "Assets/Pasted image 20230828210821.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230828210844.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 891804,
+      "exportedPath": "Assets/Pasted image 20230828210844.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230828210853.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 626690,
+      "exportedPath": "Assets/Pasted image 20230828210853.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230828210903.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 868360,
+      "exportedPath": "Assets/Pasted image 20230828210903.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20230925211531.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 905085,
+      "exportedPath": "Assets/Pasted image 20230925211531.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20231009215753.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 1281778,
+      "exportedPath": "Assets/Pasted image 20231009215753.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20231023211413.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 172005,
+      "exportedPath": "Assets/Pasted image 20231023211413.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20231023223254.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 365362,
+      "exportedPath": "Assets/Pasted image 20231023223254.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20231023235210.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 1943815,
+      "exportedPath": "Assets/Pasted image 20231023235210.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20231023235748.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 5291745,
+      "exportedPath": "Assets/Pasted image 20231023235748.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20231113205947.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 729689,
+      "exportedPath": "Assets/Pasted image 20231113205947.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20231113210123.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 1060374,
+      "exportedPath": "Assets/Pasted image 20231113210123.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20231113210835.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 1565059,
+      "exportedPath": "Assets/Pasted image 20231113210835.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20231113233102.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 59932,
+      "exportedPath": "Assets/Pasted image 20231113233102.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20231127211107.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 1788341,
+      "exportedPath": "Assets/Pasted image 20231127211107.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20231127235927.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 6056043,
+      "exportedPath": "Assets/Pasted image 20231127235927.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20231128000319.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 5465471,
+      "exportedPath": "Assets/Pasted image 20231128000319.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20231128000413.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 2428518,
+      "exportedPath": "Assets/Pasted image 20231128000413.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20231204211637.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 5901680,
+      "exportedPath": "Assets/Pasted image 20231204211637.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20231204211713.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 6081353,
+      "exportedPath": "Assets/Pasted image 20231204211713.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20231204212017.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 235730,
+      "exportedPath": "Assets/Pasted image 20231204212017.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20231204212312.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 287266,
+      "exportedPath": "Assets/Pasted image 20231204212312.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20231211225656.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 2324020,
+      "exportedPath": "Assets/Pasted image 20231211225656.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20231211225748.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 1649109,
+      "exportedPath": "Assets/Pasted image 20231211225748.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20231211230037.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 3439892,
+      "exportedPath": "Assets/Pasted image 20231211230037.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20240108214138.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 6885613,
+      "exportedPath": "Assets/Pasted image 20240108214138.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20240108220134.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 1637270,
+      "exportedPath": "Assets/Pasted image 20240108220134.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20240108235346.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 1198336,
+      "exportedPath": "Assets/Pasted image 20240108235346.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20240115211444.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 78602,
+      "exportedPath": "Assets/Pasted image 20240115211444.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20240115235834.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 850315,
+      "exportedPath": "Assets/Pasted image 20240115235834.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20240205211909.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 627776,
+      "exportedPath": "Assets/Pasted image 20240205211909.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20240219210718.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 287331,
+      "exportedPath": "Assets/Pasted image 20240219210718.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20240219210746.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 3964061,
+      "exportedPath": "Assets/Pasted image 20240219210746.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20240304211201.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 792230,
+      "exportedPath": "Assets/Pasted image 20240304211201.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20240415210019.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 1671727,
+      "exportedPath": "Assets/Pasted image 20240415210019.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20240415210604.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 886082,
+      "exportedPath": "Assets/Pasted image 20240415210604.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20240415220333.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 28516,
+      "exportedPath": "Assets/Pasted image 20240415220333.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20240415231348.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 9041,
+      "exportedPath": "Assets/Pasted image 20240415231348.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20240422213808.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 2132876,
+      "exportedPath": "Assets/Pasted image 20240422213808.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20240429230145.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 2355845,
+      "exportedPath": "Assets/Pasted image 20240429230145.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20240429232030.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 1194144,
+      "exportedPath": "Assets/Pasted image 20240429232030.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20240430000104.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 697660,
+      "exportedPath": "Assets/Pasted image 20240430000104.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20240506211202.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 1569938,
+      "exportedPath": "Assets/Pasted image 20240506211202.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20240520223643.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 996127,
+      "exportedPath": "Assets/Pasted image 20240520223643.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20240527210809.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 212415,
+      "exportedPath": "Assets/Pasted image 20240527210809.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20240527210826.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 287096,
+      "exportedPath": "Assets/Pasted image 20240527210826.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20240527235812.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 45966,
+      "exportedPath": "Assets/Pasted image 20240527235812.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20240708210759.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 140795,
+      "exportedPath": "Assets/Pasted image 20240708210759.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20240715213148.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 1703970,
+      "exportedPath": "Assets/Pasted image 20240715213148.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20240722210422.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 130618,
+      "exportedPath": "Assets/Pasted image 20240722210422.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20240722211630.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 2193429,
+      "exportedPath": "Assets/Pasted image 20240722211630.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20240805222127.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 947655,
+      "exportedPath": "Assets/Pasted image 20240805222127.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20240805222137.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 321280,
+      "exportedPath": "Assets/Pasted image 20240805222137.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20240805223118.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 272788,
+      "exportedPath": "Assets/Pasted image 20240805223118.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20240805233133.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 42720,
+      "exportedPath": "Assets/Pasted image 20240805233133.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20241014215841.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 142450,
+      "exportedPath": "Assets/Pasted image 20241014215841.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20241014231112.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 255967,
+      "exportedPath": "Assets/Pasted image 20241014231112.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20241021211212.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 317432,
+      "exportedPath": "Assets/Pasted image 20241021211212.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20241028210502.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 56789,
+      "exportedPath": "Assets/Pasted image 20241028210502.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20241028210957.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 14498,
+      "exportedPath": "Assets/Pasted image 20241028210957.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20241104211131.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 110284,
+      "exportedPath": "Assets/Pasted image 20241104211131.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20241104211157.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 1390520,
+      "exportedPath": "Assets/Pasted image 20241104211157.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20241104211818.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 577934,
+      "exportedPath": "Assets/Pasted image 20241104211818.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20241104212331.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 438239,
+      "exportedPath": "Assets/Pasted image 20241104212331.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20241104230417.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 1037214,
+      "exportedPath": "Assets/Pasted image 20241104230417.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20241104230434.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 156840,
+      "exportedPath": "Assets/Pasted image 20241104230434.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20241104231535.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 2577616,
+      "exportedPath": "Assets/Pasted image 20241104231535.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20241104232702.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 1079815,
+      "exportedPath": "Assets/Pasted image 20241104232702.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20241104234635.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 2370658,
+      "exportedPath": "Assets/Pasted image 20241104234635.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20241104234654.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 819903,
+      "exportedPath": "Assets/Pasted image 20241104234654.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20241111231440.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 8908,
+      "exportedPath": "Assets/Pasted image 20241111231440.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20241118223515.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 1462417,
+      "exportedPath": "Assets/Pasted image 20241118223515.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20241118230855.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 925780,
+      "exportedPath": "Assets/Pasted image 20241118230855.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20241125233013.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 49483,
+      "exportedPath": "Assets/Pasted image 20241125233013.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20241125233024.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 1989314,
+      "exportedPath": "Assets/Pasted image 20241125233024.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20241126000406.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 1574463,
+      "exportedPath": "Assets/Pasted image 20241126000406.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20241202223506.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 1705553,
+      "exportedPath": "Assets/Pasted image 20241202223506.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20241202223902.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 739493,
+      "exportedPath": "Assets/Pasted image 20241202223902.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20241202223920.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 19604,
+      "exportedPath": "Assets/Pasted image 20241202223920.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20241202223929.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 172374,
+      "exportedPath": "Assets/Pasted image 20241202223929.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20241202223957.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 1145573,
+      "exportedPath": "Assets/Pasted image 20241202223957.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20241202224255.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 9705,
+      "exportedPath": "Assets/Pasted image 20241202224255.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20241202230556.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 348817,
+      "exportedPath": "Assets/Pasted image 20241202230556.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20241202230731.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 3729,
+      "exportedPath": "Assets/Pasted image 20241202230731.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20241202232741.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 353554,
+      "exportedPath": "Assets/Pasted image 20241202232741.png",
+      "dependencies": []
+    },
+    "Assets/Pasted image 20241207160420.png": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 637823,
+      "exportedPath": "Assets/Pasted image 20241207160420.png",
+      "dependencies": []
+    },
+    "The Zen and Art of Taking Really Good D&D Notes.canvas": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 91989,
+      "exportedPath": "The Zen and Art of Taking Really Good D&D Notes.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1733606124501,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    }
+  }
+}
